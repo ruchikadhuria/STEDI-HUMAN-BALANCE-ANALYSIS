@@ -7,3 +7,4 @@ accelerometer_trusted	>> 40,981
 customers_curated	>> 482 
 step_trainer_trusted	>> 14,460
 machine_learning_curated	>> 43,681 
+customers who denied consent for research >> 474
