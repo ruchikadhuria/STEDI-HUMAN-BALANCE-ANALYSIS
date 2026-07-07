@@ -1,1 +1,9 @@
-
+Table	>> Rows
+customer_landing	>> 956
+accelerometer_landing	>> 81,273
+step_trainer_landing	>> 28,680
+customer_trusted	>> 482
+accelerometer_trusted	>> 40,981 
+customers_curated	>> 482 
+step_trainer_trusted	>> 14,460
+machine_learning_curated	>> 43,681 
